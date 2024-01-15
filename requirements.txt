@@ -1,0 +1,2 @@
+npm install puppeteer
+npm install pdf-lib
